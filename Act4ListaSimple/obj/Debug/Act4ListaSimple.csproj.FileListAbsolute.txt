@@ -1,0 +1,10 @@
+C:\Users\Raquel Maya\source\repos\Act4ListaSimple\bin\Debug\Act4ListaSimple.exe.config
+C:\Users\Raquel Maya\source\repos\Act4ListaSimple\bin\Debug\Act4ListaSimple.exe
+C:\Users\Raquel Maya\source\repos\Act4ListaSimple\bin\Debug\Act4ListaSimple.pdb
+C:\Users\Raquel Maya\source\repos\Act4ListaSimple\obj\Debug\Act4ListaSimple.csproj.AssemblyReference.cache
+C:\Users\Raquel Maya\source\repos\Act4ListaSimple\obj\Debug\Act4ListaSimple.Form1.resources
+C:\Users\Raquel Maya\source\repos\Act4ListaSimple\obj\Debug\Act4ListaSimple.Properties.Resources.resources
+C:\Users\Raquel Maya\source\repos\Act4ListaSimple\obj\Debug\Act4ListaSimple.csproj.GenerateResource.cache
+C:\Users\Raquel Maya\source\repos\Act4ListaSimple\obj\Debug\Act4ListaSimple.csproj.CoreCompileInputs.cache
+C:\Users\Raquel Maya\source\repos\Act4ListaSimple\obj\Debug\Act4ListaSimple.exe
+C:\Users\Raquel Maya\source\repos\Act4ListaSimple\obj\Debug\Act4ListaSimple.pdb
